@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"560a8bb27af54b06","x":-120,"y":-260,"width":250,"height":60,"type":"text","text":"26.12.23"},
+		{"id":"d4546900b609966a","x":-364,"y":-76,"width":250,"height":60,"type":"text","text":"Android testing"},
+		{"id":"da7401dd9165942b","x":100,"y":-76,"width":250,"height":60,"type":"text","text":"java completions"}
+	],
+	"edges":[
+		{"id":"2270105c33491e3d","fromNode":"560a8bb27af54b06","fromSide":"bottom","toNode":"d4546900b609966a","toSide":"top"},
+		{"id":"235be5e594bbd4d6","fromNode":"560a8bb27af54b06","fromSide":"bottom","toNode":"da7401dd9165942b","toSide":"top"}
+	]
+}
